@@ -1,0 +1,170 @@
+body{
+    background: white;
+    font-family: 'Hind Siliguri', 'sans-serif';
+  }
+  
+  .logo{
+    
+    float: left;
+  }
+
+  .container{
+    width: 95%;
+    overflow: hidden ;
+    margin: auto;
+  }
+
+  .header{
+    width: 100%;
+    overflow: hidden;
+    text-align: justify;
+    top: 0;
+
+    list-style-type: none;
+    
+
+  }
+
+  .navigation{
+    float: right;
+    margin-top: 15px;
+    
+  }
+
+  .navigation li{
+    float: right;
+    margin-left: 20px;
+    display: block;
+  }
+
+  .navigation li a{
+    text-decoration: none;
+    color: black;
+
+  }
+
+
+  
+  ul, li, p, h1, h2, h3, body, html{
+    padding: 0;
+    margin: 0;
+  }
+  
+  /* a{
+    text-decoration: none;
+    text-decoration: dashed;
+    color: black;
+    align-items: center;
+  } */
+  
+  /* header{
+    display: flex;
+    padding: 10px 20px;
+    border-bottom: 1px solid #ccc;
+    box-shadow: -5px 5px 10px -10px #2d3748; 
+  } */
+  
+  /* header .kiri{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    margin-left: auto;
+  }
+  
+  header .tengah{
+    display: flex;
+    list-style: none;
+    align-items: center;
+  } */
+  
+  /* header .kanan{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    margin-right : auto;
+  } */
+  
+  /* header a{
+    padding: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+  }
+   */
+  .biru{
+    background: #02bdd5;
+  }
+  
+  .color{
+    background: #02bdd5;
+  }
+  
+  .content-home{
+    max-width: 1440px;
+    text-align: center;
+  }
+  
+  .content-home-atas{
+    padding: 20px 0;
+  }
+  
+  .watermark{
+    padding: 20px 0;
+    margin: 30px 0 0;
+    align-items: center;
+    background: #02bdd5;
+  }
+
+.kontak{
+  padding: 20px 0;
+  max-width: 1440px;
+  text-align: center;
+  border-bottom: 1px solid #ccc;
+  box-shadow: -5px 5px 10px -10px #2d3748; 
+}
+
+.kontak2{
+  padding: 20px 0;
+  max-width: 1440px;
+  text-align: center;
+}
+
+.contact{
+  display: flex;
+  list-style: none;
+  margin: auto;
+  max-width: 1440px;
+  text-align: center;
+  margin: 30px 0 0;
+  display: flex;
+  width: 50%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.contact li{margin: 120 120px;}
+
+.color2{
+  background: #00FFFF;
+}
+
+.bungkus {
+  padding: 0px 60px;
+  margin: 60px auto;
+  display: flex;
+}
+
+.pp-pict {
+  border-radius: 70%;
+  width: 70%;
+  object-fit: cover;
+}
+
+.myself {
+  width: 80%;
+  float: right;
+  text-align: left;
+  line-height: 1.7;
+  padding: 0px 60px;
+  margin-right: auto;
+}
+
